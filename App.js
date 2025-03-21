@@ -1,4 +1,3 @@
-
 //UC 1
 const IS_Absent = 0;
 
